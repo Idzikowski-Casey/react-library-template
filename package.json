@@ -1,7 +1,7 @@
 {
-  "name": "test-lib-idz",
-  "version": "0.0.3",
-  "description": "A test react library",
+  "name": "library-name-here",
+  "version": "0.0.1",
+  "description": "A react library",
   "scripts": {
     "test": "jest",
     "rollup": "rollup -c",
